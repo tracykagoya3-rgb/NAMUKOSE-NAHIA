@@ -1,0 +1,39 @@
+body{
+font-family:arial;
+background:#00C9A7;
+border:10px #1A1A1A;
+border-style:ridge;
+}
+header{
+font-family:Calibri;
+text-align:center;
+background:linear-gradient(to bottom,orange, PINK,orange);;
+height:350px;
+padding:5px;
+text-weight:bold;
+text-decoration:none;
+}
+p{
+font-size:20px;
+text-align:center;
+}
+.p{
+font-size:32px;
+}
+nav a{
+padding:20px;
+text-decoration:none;
+}
+nav a:hover{
+background-color:white;
+radius:5px;
+}
+clothes{
+text-align:center;
+}
+footer{
+background:linear-gradient(to bottom,orange, PINK,orange);
+height:100px;
+text-align:center;
+}
+
